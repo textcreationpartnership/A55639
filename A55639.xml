@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Publick-spiritedness recommended. A sermon preach'd before the gentlemen educated in merchant-taylors school, at Bow-Church, December 10. 1700. By Samuel Prat, D.D. chaplain to Her Royal Highness the Princess, and late almoner to His Highness the Duke of Glocester.</title>
+            <author>Pratt, Samuel, 1659?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55639</idno>
+            <idno type="STC">Wing P3183</idno>
+            <idno type="STC">ESTC R214731</idno>
+            <idno type="EEBO-CITATION">99826810</idno>
+            <idno type="PROQUEST">99826810</idno>
+            <idno type="VID">31219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1769:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Publick-spiritedness recommended. A sermon preach'd before the gentlemen educated in merchant-taylors school, at Bow-Church, December 10. 1700. By Samuel Prat, D.D. chaplain to Her Royal Highness the Princess, and late almoner to His Highness the Duke of Glocester.</title>
+                  <author>Pratt, Samuel, 1659?-1723.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for S. Smith, and B. Walford, at the Prince's Arms in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31219:1"/>
+            <pb facs="tcp:31219:1"/>
+            <p>
+               <hi>Publick-ſpiritedneſs Recommended.</hi>
+            </p>
+            <p>A SERMON Preach'd before the GENTLEMEN Educated IN Merchant-Taylors School, AT <hi>BOW-CHURCH,</hi> DECEMBER 10, 1700.</p>
+            <p>By <hi>SAMUEL PRAT,</hi> D.D. Chaplain to Her Royal Highneſs the Princeſs, and late Almoner to His Highneſs the Duke of <hi>Gloceſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>S. Smith,</hi> and <hi>B. Walford,</hi> at the <hi>Prince</hi>'s <hi>Arms</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31219:2"/>
+            <pb facs="tcp:31219:2"/>
+            <head>TO My Honour'd Friends and Schoolfellows,
+<list>
+                  <item>Mr. <hi>Edw. Cooke,</hi>
+                  </item>
+                  <item>Mr. <hi>Tho. Hill,</hi>
+                  </item>
+                  <item>Mr. <hi>Tho. March,</hi>
+                  </item>
+                  <item>
+                     <hi>Jo. Rogerſon</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>W<hi rend="sup">m</hi> Turner</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>Mr. <hi>Edmund Lilly,</hi>
+                  </item>
+                  <item>Mr. <hi>W<hi rend="sup">m</hi> Thompſon,</hi>
+                  </item>
+                  <item>Mr. <hi>Jo. Pelham,</hi>
+                  </item>
+               </list> STEWARDS; And the other Gentlemen Educated in <hi>Merchant-Taylors School.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>THE moſt irreparable Calamity that ever be<g ref="char:EOLhyphen"/>fel theſe Kingdoms by the Loſs of a Prince, might have excuſed one who ſtood among the neareſt to the Blow, from appearing in Print, even whilſt his Wound is ſtill bleeding: But ſeeing you were of the Opinion, that this Sermon, by the great Contribution which follow'd it, had already been inſtrumental, in ſome meaſure, to its chief deſign, and might probably be farther ſo when Publiſh'd; your Importunities prov'd irreſiſtible, and hath given me occaſion to Apologize for that part of it, where<g ref="char:EOLhyphen"/>in I may ſeem to have forgot the Gravity of a Preacher.</p>
+            <p>The Juvenility of the greateſt Number of my Audi<g ref="char:EOLhyphen"/>tors may make ſome excuſe for my wreſting one Line out of <hi>Virgil;</hi> and to the more ſerious I hope I am account<g ref="char:EOLhyphen"/>able for nothing elſe, unleſs poſſibly for the two Verſes I quoted out of <hi>Homer.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:31219:3"/>
+Now by the firſt of 'em, I had a mind to expreſs that which I thought would have been flat without ſome ſort of Alluſion; and by the latter I follow'd the Advice of the <hi>Son</hi> of <hi>Sirach,</hi> Ecclus. <hi>38.</hi> v. <hi>1.</hi> So that if they be not miſapply'd, I need not value Cenſure; for <hi>Homer</hi> may appear in a Sermon, after that an <hi>Apoſtle</hi> has cited <hi>Epimenides.</hi> At leaſt you may excuſe me this once, when by my asking pardon for School-learning, ye ſee I am not over-fond of it.</p>
+            <p>For what Pride, or what Pleaſure can we now take in <hi>Philology,</hi> after HE is gone, who by the Innocency and Holineſs of his Life would have ſanctified Human Learning to the World, to whom all the great Profeſſors in <hi>Humanity</hi> were riſing up to pay an Early Reverence; and who Himſelf was the greateſt Maſter of it that ever yet appear'd at his years; Eſpecially if we conſider thoſe great Ornaments of a Sublime Underſtanding, which are moſt properly peculiar to the firſt Rank of Men. But yet <hi>Human Learning</hi> is ſtill neceſſary; and ye do well to encourage it more than ever, now that it hath lately loſt the greateſt Encouragement it ever had.</p>
+            <p>There is no Conſolation left, but in that Holy Spirit, which directs ſuch Men as you to be Publick-minded: May you always receive the Comforts of that Spirit, to whoſe Almighty guidance I humbly commend you, deſi<g ref="char:EOLhyphen"/>ring to be eſteem'd,</p>
+            <closer>
+               <salute>
+                  <hi>Gentlemen,</hi> 
+               </salute> 
+               <signed>
+                  <hi>Your moſt Affectionate, and moſt Obedient Servant,</hi>
+S. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:31219:3"/>
+            <head>
+               <hi>Publick-ſpiritedneſs</hi> RECOMMENDED.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. X. 24.</hi>
+                  </bibl>
+                  <p>Let no man ſeek his own.</p>
+               </q>
+            </epigraph>
+            <p>THIS we may very well believe, was one of thoſe Precepts, that made Chri<g ref="char:EOLhyphen"/>ſtianity fare ſo badly at its firſt Pro<g ref="char:EOLhyphen"/>mulgation.</p>
+            <p>This was a main Cauſe of men's Prejudices againſt the Goſpel; that it not only pretended to <hi>Myſteries</hi> far above human Underſtanding, and to <hi>Paradoxes</hi> that, at firſt hearing, oppoſed all human Reaſon, but to ſuch <hi>Injunctions</hi> like<g ref="char:EOLhyphen"/>wiſe as were intolerable to human Senſe. Now this Text is liable to every one of theſe three Objections. For,</p>
+            <p>
+               <hi>Firſt,</hi> Theſe Words ſeem to contain a My<g ref="char:EOLhyphen"/>ſtery; to wit, That after all the Terms of Be<g ref="char:EOLhyphen"/>nefit and Advantage to our ſelves, propos'd throughout the whole Series of the Goſpel;
+<pb n="2" facs="tcp:31219:4"/>after all the Motives and Inducements deriv'd from the Conſideration of what we may and ought to expect as a Reward for our embra<g ref="char:EOLhyphen"/>cing and adhering to this Doctrine; here comes a Clauſe of quite another ſtrain; We muſt <hi>not,</hi> it ſeems, <hi>ſeek our own:</hi> How does this agree with the reſt? When we have been ſo often as good as told, we muſt ſeek our own, the Tran<g ref="char:EOLhyphen"/>quility of our Minds, the Improving our Parts, the Bettering our Reputation, the Conſervation of our Health, the Eſtabliſhing our Fortunes, the Refining of our Enjoyments: Are not all theſe Leſſons of Chriſtianity? Nay, that which is above all the reſt, the Salvation of our Souls? Is it not our <hi>own Salvation</hi> that we muſt <hi>work out with fear and trembling?</hi> And yet after all, 'tis here ſaid, <hi>Let no man ſeek his own.</hi> This was not eaſy to be comprehended by the <hi>Gentile World:</hi> This was a New Doctrine, and very Sublime; for none of their Philoſophers had ever touch'd upon it: The Sum of the Ancient Philoſophy was, That every man ſhou'd ſeek his own; that is, prefer his own Safety, his own Eaſe, his own Quiet, his own Pleaſure, before all the World; and whenever they ſeem'd to ſtep out of this Rule, you do but think they did ſo, for they always kept within it. If you find
+<pb n="3" facs="tcp:31219:4"/>any of 'em Munificent and Liberal, it was for their own Glory, or upon ſome meaner Mo<g ref="char:EOLhyphen"/>tive; as that great One, for inſtance, of Popu<g ref="char:EOLhyphen"/>larity. If you find any of 'em puſhing for<g ref="char:EOLhyphen"/>wards into Danger with more than ordinary Bravery and Courage; why, it was, like <hi>Caeſar,</hi> to uphold their own ſinking Fortunes; or, like <hi>Scipio,</hi> to ſupport a tottering State, in which they themſelves had ſo great a ſhare; or, like <hi>Alexander,</hi> through the Unſatiableneſs of their own Ambition: It was upon ſome ſelfiſh Mo<g ref="char:EOLhyphen"/>tive or other; ſome ſuch Inducements as do now-a-days prompt the outward Profeſſors of Chriſtianity to do ſometimes very great and heroick Actions, upon very Unchriſtian-like Principles: thoſe I mean, who ſeek more their own Glory, than the Glory of God. Nor was it much leſs a Myſtery to the <hi>Jews,</hi> that ſowre ſelfiſh Generation of Men, who liv'd as if it were a Point of Religion to be ill-natur'd to the reſt of Mankind. But,</p>
+            <p>
+               <hi>Secondly,</hi> It might have paſs'd well enough for a <hi>Myſtery,</hi> if it had not look'd too much like a <hi>Paradox; Let no man ſeek his own.</hi> Why, is that the way to bring it about? Is every thing ſuch a ſhadow as to follow ye, when ye flee from it? Credit and Eſteem may do ſo ſome<g ref="char:EOLhyphen"/>times,
+<pb n="4" facs="tcp:31219:5"/>but not Riches and Preferment, in any Age but the Golden One. Perhaps that which we are bid here not to ſeek, will come with<g ref="char:EOLhyphen"/>out ſeeking; and if ye <hi>ſeek the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, all theſe things will be added unto you;</hi> or perhaps they'll come the ſooner for not being ſought after; then he who is ſo perſwaded may ſeek 'em moſt, by not ſeeming to ſeek 'em; yet in the mean time he does ſeek that which he turns his back upon. Still it looks like a Contradiction, to bid a man not ſeek after that which you allow him to deſire. This bears hard upon human Reaſon. But then,</p>
+            <p>
+               <hi>Thirdly,</hi> 'Tis as hard upon all our Senſes. To bid a man not ſeek his own, is a very hard Saying to fleſh and blood: This is to bid fare<g ref="char:EOLhyphen"/>well to all the Senſes of the Body; beſide thoſe Faculties of the Soul, as, Will, Love, Deſire, and the like: This is more ſevere than to pluck out the Right Eye, and to cut off the Right Hand and Foot; for there was One Eye left to ſeek, and a Foot to purſue after, and a Hand to receive things, at leaſt of a more law<g ref="char:EOLhyphen"/>ful, and more excuſable Nature: Such as are our own, one wou'd think, after the others had been puniſh'd for ſeeking things not our own, ſuch as we ought not to meddle with.</p>
+            <p>
+               <pb n="5" facs="tcp:31219:5"/>
+But after all; how <hi>hard</hi> ſoever the Precept may be, 'tis very <hi>neceſſary,</hi> otherwiſe 'twou'd not be here. The Apoſtles, who forſook all they had for the ſake of the Goſpel, wou'd not, doubtleſs, clog it with any thing ſuperfluous, or give it any diſreliſhing Taſt to the World, they cou'd have avoided: As to the <hi>Myſteriouſneſs,</hi> 'tis no more than what our Bleſſed Saviour himſelf preach'd; <hi>He that ſeeks his Life, ſhall loſe it; and he that loſeth it for Chriſt's, and the Goſpel's ſake, ſhall find it.</hi> And as to its <hi>Severity,</hi> our Lord himſelf put it in practice; he ſought not his own; he did not come into the World for his own ſake, but ours; it was for <hi>our</hi> Be<g ref="char:EOLhyphen"/>nefit, <hi>our</hi> Comfort, <hi>our</hi> Glory. So his Apoſtles and Confeſſors, following his Example, ſought not their <hi>own;</hi> they pretended to nothing, un<g ref="char:EOLhyphen"/>leſs you'll make any thing of Poverty, Labour, Diſgrace, Impriſonment, Stripes, Tortures, Deaths: If theſe were their <hi>own,</hi> theſe they ſought; but nothing elſe, beſide the Benefit of all Mankind. Yet ſeeing this Phraſe is ſo hard to be underſtood, and ſo much harder to be practic'd, I ſhall endeavour Three Things:</p>
+            <p>Firſt, To explain a little the Senſe of it; ſhow you what is meant by <hi>not ſeeking our own.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:31219:6"/>
+Secondly, I ſhall diſcourſe of the Reaſona<g ref="char:EOLhyphen"/>bleneſs of the Precept; reconcile it with your Intereſt, and recommend it to your Conſide<g ref="char:EOLhyphen"/>ration. And,</p>
+            <p>Thirdly, I ſhall, by way of Application, direct you to the Practice of it.</p>
+            <p>
+               <hi>Firſt</hi> then, for a clearer Underſtanding of theſe Words, 'tis to be noted, that this former part of the Verſe is more ſtrictly tranſlated from the Original than the latter: <hi>Let no man ſeek his own,</hi> is <hi>verbatim; but every man another's Wealth,</hi> is not ſo; the <hi>Greek</hi> here has no Subſtantive, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>i.e.</hi> but every man ano<g ref="char:EOLhyphen"/>ther's, or the things of another; Let no man ſeek his own Benefit or Advantage, but the Benefit and Happineſs of others.</p>
+            <p>
+               <hi>Let no man ſeek his own;</hi> that is, ſtudy and contrive his <hi>own</hi> ſingular private Intereſt, but every one the Intereſt of others; Let no man be ſelfiſh in his Deſigns, be of a narrow pri<g ref="char:EOLhyphen"/>vate Spirit, but let him have an open Heart and a publick Mind.</p>
+            <p>
+               <hi>Let no man ſeek his own</hi> ſo as to injure others, or neglect others; but let him alſo ſeek <hi>ano<g ref="char:EOLhyphen"/>ther's Wealth;</hi> and not only his Wealth, but his Safety, his Peace, his Content, his Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="7" facs="tcp:31219:6"/>his Everlaſting Good. Let no man lay it as the only Principle, no, nor the firſt Prin<g ref="char:EOLhyphen"/>ciple of his Thoughts, Words, and Actions; How ſhall I raiſe my Fortunes, or garniſh my Credit, or increaſe my Store, or improve my own Affairs? But, How ſhall I do good to others? How ſhall I make other People happy? How ſhall I benefit my Neighbour? How ſhall I ſecure his Fortunes, or Reputation, or Peace? How ſhall I be beneficial to Mankind in the general, or to ſuch and ſuch of my Neigh<g ref="char:EOLhyphen"/>bours in particular?</p>
+            <p>Perhaps if the Apoſtle had been to ſpeak to the Men of this Age, he wou'd have ſaid, Let no man do that, which almoſt every man does now, <hi>ſeek his own;</hi> purſue it as the great Buſi<g ref="char:EOLhyphen"/>neſs of every one's life. It ſeems from the preſent State of Affairs among Men, that the firſt Queſtion every one asks himſelf upon any Emergency, is, How may this conduce to my own Intereſt? For who is it upon hearing any Publick Occurrence, that ſays firſt within him<g ref="char:EOLhyphen"/>ſelf, How will this conduce to the Glory of God and the Benefit of mankind? Will this propagate the true Religion, and diſcounte<g ref="char:EOLhyphen"/>nance every falſe one? Will this ſet free the Captive, or will it relieve the Oppreſſed? Will
+<pb n="8" facs="tcp:31219:7"/>it be a means of inſtructing the Ignorant, or of inriching the Poor?</p>
+            <p>Theſe, 'tis to be fear'd, are not the firſt Thoughts. But, Will it alleviate Taxes, or advance our Friends? Will it raiſe our Actions, and put a better Price upon what we have to ſell, or further any of our deſigns? If theſe are not the chief Reaſons why People are ſo inqui<g ref="char:EOLhyphen"/>ſitive in publick Affairs; Let us enquire into Things of a more private Nature, and we ſhall be ſure to find the Text come home to many of us.</p>
+            <p>
+               <hi>Let no man ſeek his own,</hi> is a Precept directed to all thoſe who ſeem to ask leave of themſelves before they do good to any body elſe: Shall I give ſuch an one good advice? But will it be ſafe for me ſo to do? May not he miſtake my meaning, and ſo become my Enemy? Shall I beſtow ſuch a Bounty? But will it hold out with my Income? May it not look like Profuſeneſs? or may I not chuſe a time in which I ſhall be more thank'd for it? Shall I be ſuch an one's Friend and Advocate? but ſhan't I ſpend my Intereſt, or my Time; or my Money? Theſe things are my own, and ſhall I beſtow 'em upon another?</p>
+            <p>
+               <pb n="9" facs="tcp:31219:7"/>
+               <hi>Let no man ſeek his own,</hi> ſays the Text; no, nor <hi>keep</hi> his own upon ſuch an occaſion; <hi>i.e.</hi> not ſeek to keep it; 'tis a full and poſitive Anſwer to all ſuch Objections: Let no man ask what he himſelf ſhall be the better, or how much a againer by this or that? <hi>Let no man ſeek his own</hi> when he has an opportunity of doing good: Let no man ask that Phariſaical Que<g ref="char:EOLhyphen"/>ſtion, Is it for a Relation, or a Friend, or a Cuſtomer, or Some-body that will do me good again? Let no man do any thing for another, but for another's ſake.</p>
+            <p>Nor likewiſe for himſelf: <hi>Let no man ſeek his own</hi> in the Things that relate chiefly to him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>If a man ſeeks Wealth, let him not ſeek it as his own; not that he may be richer than he is, but that he may have wherewithal to relieve thoſe that are poorer: Let a man ſeek Ho<g ref="char:EOLhyphen"/>nour by lawful means as he ſhou'd Riches, but then not as his own; if it be by any part of <hi>Learning,</hi> let it be to the Honour of his <hi>School,</hi> or <hi>College,</hi> or <hi>Univerſity;</hi> If it be by <hi>Juſtice, Temperance,</hi> and <hi>Generoſity,</hi> let it be for the Honour of his <hi>Parents;</hi> or <hi>Guardians,</hi> or <hi>Family;</hi> if it be by <hi>Courage</hi> and <hi>Manlineſs,</hi> let it be to the Honour of his <hi>King</hi> and his <hi>Coun<g ref="char:EOLhyphen"/>trey:</hi>
+               <pb n="10" facs="tcp:31219:8"/>but above all, and that which is the Crown of all, let every thing that every man does be to the Honour of <hi>God,</hi> of the <hi>Chriſtian,</hi> and of the <hi>Reformed Religion.</hi> This may ſuffice to ſhow the meaning of the Words; which was my firſt Undertaking. I proceed,</p>
+            <p>
+               <hi>Secondly,</hi> To the Reaſonableneſs of the Pre<g ref="char:EOLhyphen"/>cept, the Juſtice, the Goodneſs, the Agreeable<g ref="char:EOLhyphen"/>neſs of it to our Intereſt.</p>
+            <p>
+               <hi>Firſt</hi> then let us conſider, that no good man is a ſingle, ſeparate, and intire Being of him<g ref="char:EOLhyphen"/>ſelf; he is but a part of a Whole, or a mem<g ref="char:EOLhyphen"/>ber of a Body; ſingle him out, and ſeparate him from the reſt, and he is like a Limb cut off from the Body, dead and uſeleſs: So that for a man to call any thing his own, is as great an Impropriety of Speech, as for a Member of a Society to ſay of the Lands belonging to the whole Community, Theſe are <hi>my</hi> Lands; or for a Scholar to ſay, This is <hi>my</hi> School; or for a Soldier to ſay, This is <hi>my</hi> Army; no body in this World has or ought to have any thing their own, ſeparate from the uſe and benefit of the reſt of Mankind; therefore for a man in that ſenſe to <hi>ſeek his own,</hi> is to ſeek his <hi>own de<g ref="char:EOLhyphen"/>ſtruction;</hi> he can't ſubſiſt alone upon his own bottom; if ſuch a one cou'd live as private as
+<pb n="11" facs="tcp:31219:8"/>his own ſpirit, he wou'd be the miſerableſt thing in the World; he cou'd have no Honour, for no body cou'd pay it him; he cou'd have no Riches, for there cou'd be no value upon what he hath; he cou'd have no Safety, for no one man is able to protect himſelf from even Wild Creatures. That which gives Life and Heat to any Member, is the Circulation of Spirits that is in Common to the whole Body: Therefore when ye are bid not to ſeek your own, ye are bid to live and be happy in the common Be<g ref="char:EOLhyphen"/>nefits of mankind; ye are bid to have an Inte<g ref="char:EOLhyphen"/>reſt and a ſhare in that which others have; it is for your own Preſervation and Happineſs that ye are bid not to ſeek your own.</p>
+            <p>
+               <hi>Secondly,</hi> Let us conſider, that we our <hi>ſelves</hi> are not our own, we have a Maſter, a Lord, a Proprietor, which is God: We neither made our ſelves, nor are we any thing but what he pleaſes to make us; we cannot diſpoſe of our ſelves, nor do we know how he will diſpoſe of us; we our ſelves, as well as all that we have, is of him, and belongs to him; and therefore 'tis very improper to call our ſelves or any thing we have, our own; and to ſeek any thing as our own, is to withdraw our ſelves from him in whom <hi>we live, and move, and have our being:</hi>
+               <pb n="10" facs="tcp:31219:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:31219:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:31219:10"/>but not to ſeek our own, that is, not to place our Hopes and Deſires on any thing but God, is to entitle our ſelves to his Care and Pro<g ref="char:EOLhyphen"/>tection.</p>
+            <p>And theſe words do not reſtrain us from ſeeking that which Impropriety of Speech many times calls our own; as Wealth, or Honour, or Power, and the like; theſe and many other Benefits of Human Life may be ſought after by Juſt and Righteous means; but we muſt ſeek none of all this for our own ſakes, but for the Glory and Honour of God; and when we have attain'd any thing, we muſt not look upon it as our own, but our ſelves as Stewards of it before God; it belongs all to him, and we muſt put it to no other uſes but what he ordains; it muſt be ſought after only for his Sake, and diſpos'd of only by his Will: And if ſo, then,</p>
+            <p>
+               <hi>Thirdly,</hi> Upon theſe very words of my Text we may build ſafely and innocently the greateſt Self-intereſt; for if we dedicate all our Deſires and Acquiſitions to God, then, and not till then, every thing we poſſeſs is properly our own, every thing we enjoy is the free Gift and Bleſ<g ref="char:EOLhyphen"/>ſing of God; then our Riches will be our own, they will not ſo eaſily make to themſelves wings
+<pb n="13" facs="tcp:31219:10"/>and fly away; or if they do, they will not leave us poor, having a Treaſure ſtill in Heaven; our Dignities will then be our own, they'll be intrinſick Honours, and not ſhine as others do, with a borrowed and precarious Luſtre: We may <hi>own</hi> likewiſe the Pleaſures and Enjoy<g ref="char:EOLhyphen"/>ments of this life; we need not be aſham'd of them as of ſtollen Pleaſures; it will then be a true Enjoying of our own: So that after all, the not ſeeking our own, is the readieſt and the only way to find it, that principally which will be our own to all Eternity; I mean the ſolid Enjoyment of Everlaſting Life; when after the <hi>denying one's ſelf,</hi> we ſhall each of us be <hi>own'd by Chriſt;</hi> and the loſing of all the World will be the gaining of a man's <hi>own Soul;</hi> when the for<g ref="char:EOLhyphen"/>ſaking all that he hath, is the laying hold of all that can be deſir'd, the Infinite and Eternal Riches of God's Kingdom. All theſe things conſider'd, there is no Precept in the Goſpel that conduces more to our real benefit and advan<g ref="char:EOLhyphen"/>tage than this does.</p>
+            <p>Nay, to thoſe who are not ſufficiently per<g ref="char:EOLhyphen"/>ſwaded of theſe great and precious Promiſes; thoſe that look no farther than the preſent life, may perceive a Reaſonableneſs in this Precept ſuitable to their Temporal Felicity; they may
+<pb n="14" facs="tcp:31219:11"/>ſee that nothing is more diſadvantageous to a man than the propoſing to himſelf only private Intereſt; for ſuch an Inclination never fails of being diſcover'd; and then he who is ſo ſelfiſh<g ref="char:EOLhyphen"/>ly diſpos'd, does intimate to other people that they ſhou'd be ſo too, and he may reaſonably expect that others will act the ſame part which he encourages by his Example; whereas a be<g ref="char:EOLhyphen"/>neficent and publick Spirit, for the moſt part, meets with ſuitable Returns. There is a Magne<g ref="char:EOLhyphen"/>tick Force in Generoſity and Good-nature, that attracts others, and aſſimilates to it ſelf: And, on the other ſide, the narrow and ſelfiſh Diſpoſi<g ref="char:EOLhyphen"/>tion is ſo far from gaining upon others, that it is never pleas'd with thoſe of its own Temper. 'Tis Humanity and Kindneſs; 'tis Good-nature and Beneficence; 'tis Largeneſs of Mind, and Openneſs of Heart; 'tis contributing to the Welfare of others that conduces to our own Happineſs; and 'tis a very eaſy Obſervation which any one may make in the Courſe of this World, that the purſuing of a ſelfiſh and pri<g ref="char:EOLhyphen"/>vate Deſign is one of the weakeſt and moſt un<g ref="char:EOLhyphen"/>ſucceſsful of Human Policies. I might enlarge much more upon the Reaſonableneſs of the Precept, but I muſt haſten to the Third and Loſt Thing I propos'd to you.</p>
+            <p>
+               <pb n="15" facs="tcp:31219:11"/>
+The directing you, by way of Application, to the Practice of it.</p>
+            <p>Our Bleſſed Lord, 'tis ſaid, <hi>came unto his own,
+<note place="margin">Jo. 1.11, 12.</note> and his own received him not, i. e.</hi> the Generality of 'em; but <hi>to as many as receiv'd him, to them gave he Power to become the Sons of God.</hi> Where they are call'd <hi>his own;</hi> whoſe Benefit and Happineſs he deſign'd; he pretended to nothing but what might be the better for him; ſo fol<g ref="char:EOLhyphen"/>lowing his Holy Example, we may make many things our own, which otherwiſe we ſhou'd have no Relation to; we may <hi>make to</hi> our <hi>ſelves friends,</hi> for inſtance, <hi>of the Mammon of Unrighte<g ref="char:EOLhyphen"/>ouſneſs;</hi> the Mammon it ſelf will fail them that ſeek it, but the Friends we make with it will never fail us, they will hand us into <hi>Everlaſting Habitations: The Poor we have always with us,</hi> and we may make them our <hi>own,</hi> our Relations, our Clients, our Dependants here; and they, under Chriſt, will be our Advocates here<g ref="char:EOLhyphen"/>after: If we ſeek out a diſtreſſed Family to Re<g ref="char:EOLhyphen"/>lieve it; if we ſeek out a diſconſolate Family to Comfort it, that will be our <hi>own</hi> Family, it will always <hi>own</hi> us before God, and we our ſelves ſhall enjoy as it were the Affluence, the Refreſhments, the Joys of that Family: If we <hi>deal out our bread to the hungry, and ſatisfy the
+<pb n="16" facs="tcp:31219:12"/>thirſty ſoul;</hi> if <hi>we ſet free the Priſoner, and take the burden from off the ſhoulder of the Oppreſſed;</hi> if <hi>we inſtruct the ignorant, and give advice to him that is deſtitute of Underſtanding;</hi> if we are <hi>a Fa<g ref="char:EOLhyphen"/>ther to the Fatherleſs, and a Husband to the Widow,</hi> in all theſe we have an Intereſt; and if they ſhou'd prove ſo ungrateful as not to acknow<g ref="char:EOLhyphen"/>ledge it, yet he who has commanded us not to ſeek <hi>our own,</hi> but to ſeek the good of others, he will acknowledge it, and he will reward it. But that Reward, though it be ſure and certain, muſt not be the only Motive upon which we do all this; that will be ſeeking our own, if what we do for others be only upon the hopes that God will retaliate and pay it back to us; and much leſs may we propoſe to our ſelves any Secular and Temporal Advantage from the Benefits we confer upon our Fellow-Bre<g ref="char:EOLhyphen"/>thren; we muſt not advance the Fortunes of our Relations, becauſe it is for our Credit and Reputation, that they make a better Figure in the World, but becauſe we are more ſenſible of the Wants and Neceſſities of thoſe that are near us, than of thoſe that are afar off; we muſt not do good to our Tenants, or our Chapmen, or our Servants, becauſe they may be the better able to pay us, or to deal with us, or to ſerve
+<pb n="17" facs="tcp:31219:12"/>us, but becauſe they have a dependance upon us, and becauſe they have a greater Right to our Aſſiſtance than others of equal Neceſſity. We muſt not Relieve any one, becauſe he is a more <hi>conſpicuous</hi> Object of Charity, but becauſe he is a <hi>Greater;</hi> We muſt do good to him that will be moſt <hi>ſenſible</hi> of the Benefit, rather than to him that will moſt <hi>thankfully acknow<g ref="char:EOLhyphen"/>ledge</hi> it.</p>
+            <p>So likewiſe in Duties to our ſelves, we muſt not ſeek our own upon ſelfiſh Motives; we muſt not be Temperate in Meat and Drink for the ſake only of our Eaſe and Health, but chiefly in Obedience to God, and for a good Example to others; we muſt not be ſober in our Converſation, and diſcreet in our Actions, only becauſe we are in ſuch an Employment, Place or Office; but rather, becauſe we profeſs the Goſpel of Chriſt, and are call'd by his Name: We muſt not be induſtrious in our Acquiſitions, and frugal in our Expences, that we may fill our Bags, and enlarge our Lands, but becauſe we have a Family to provide for, or ſome great Acts of Charity and Munifi<g ref="char:EOLhyphen"/>cence to perform: We muſt not do great and glorious Actions for the Reputation that we may gain by 'em, but for the Glory of God, and the Honour of our Countrey; all our De<g ref="char:EOLhyphen"/>ſigns
+<pb n="18" facs="tcp:31219:13"/>muſt be of a large and regular Circum<g ref="char:EOLhyphen"/>ference, our Hopes and Deſires muſt be eleva<g ref="char:EOLhyphen"/>ted above our ſelves; we muſt never ſtoop ſo low as to any ſelfiſh Conſideration.</p>
+            <p>But every one muſt conſider himſelf as no more than one among the reſt of Mankind; a Servant of Chriſt's, and a Member of his Body; and therefore he muſt ſeek that only as is moſt pleaſing to his Lord, and moſt beneficial to the Advantage of the whole; he muſt ſeek to walk <hi>worthy of his Lord unto all pleaſing, and be fruitful in every good work;</hi> as a Tree that brings not forth for itſelf, but for others; he muſt ſeek all Occaſions and Opportunities of doing good to every one; he muſt make every bo<g ref="char:EOLhyphen"/>dy's <hi>Caſe his own,</hi> and be a Partaker and Fellow<g ref="char:EOLhyphen"/>feeler in every one's Circumſtances; he muſt <hi>rejoice with them that rejoice, and mourn with them that mourn;</hi> however he be Tranſported with his own Affairs, <hi>to do good, and to communicate, he muſt not forget;</hi> he muſt weigh his Vertue, and meaſure his Grace, and number his Days by the Good that he does to Mankind; he muſt look upon himſelf as poor, and miſerable, and deſtitute, when he has not an Opportunity of Feeding the Hungry, and Cloathing the Naked, and Viſiting the Sick, and Comforting the Af<g ref="char:EOLhyphen"/>flicted; he muſt ſeek Occaſions and Oppor<g ref="char:EOLhyphen"/>tunities
+<pb n="19" facs="tcp:31219:13"/>of doing all this, and much more; and he muſt rejoice when he hath found out a way of making others eaſy and happy: For as the Enemy of God and Man <hi>goes about ſeeking whom he may devour;</hi> ſo he who will be a Friend to God and Man, muſt go about ſeeking whom he may ſupport; to which of all thoſe for whom Chriſt died he may be any ways ſervice<g ref="char:EOLhyphen"/>able.</p>
+            <p>And now, had I time, I might apply my ſelf more particularly to you who are here preſent as a Society. The Self-gratification with which we this Day meet one another, is one of the moſt Innocent at leaſt, if not likewiſe moſt Commendable Enjoyments that Human Nature is capable of.</p>
+            <p>We renew hereby our Pure, Diſ-intereſted, and Virgin Friendſhips; we bring back to our Remembrance the pleaſing Images of the moſt lively Scenes, the ſweet Ideas, of the Spring<g ref="char:EOLhyphen"/>time of our Age; We look back upon the Original Figures that we made in the School; we reflect upon the Wit, the Docility, the Sa<g ref="char:EOLhyphen"/>gacity, the Good Humour of our tender Years; we ſee as it were, after a Reſuſcitation, the known Air and Features of each one whom we then lov'd and eſteem'd.</p>
+            <p>
+               <hi>Sic oculos, ſic ille manus, ſic or a ferebat.</hi>
+               <note place="margin">Virg. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:31219:14"/>
+And here we compare our ſelves by our ſelves; and what we are now, we judge of one another by what we have been: We ſee how the Gifts of Nature have been improv'd, and how at the ſame time the Gifts of Fortune, or (that with St. <hi>Auſtin</hi> I may retract the Word) the other Gifts of Providence have not alter'd us; but that the ſame Love, Friendſhip and Familiarity continues as at this day.</p>
+            <p>And we come hither to taſt and ſee how good and gracious God has been to us in the pro<g ref="char:EOLhyphen"/>longing of our Lives, and bleſſing our En<g ref="char:EOLhyphen"/>deavours, and putting us into a Capacity of being beneficial to others; by which means others may behold, and ſee, and feel too, <hi>how pleaſant and joyful a thing it is Brethren to dwell together in Unity.</hi>
+            </p>
+            <p>For though Self-ſatisfaction may be allow'd us in all theſe things, yet we come not hither, I hope, to ſeek that only. The main deſign of this Meeting is to ſeek the Good of others, to ſeek it by contributing thereto.</p>
+            <p>I appeal to the inmoſt Thoughts of every one of our hearts, whether we don't mean this day to vie in ſome meaſure with all the Socie<g ref="char:EOLhyphen"/>ties in <hi>England</hi> of this kind.</p>
+            <p>And wherein ſhall we vie? in the <hi>Honour</hi> and <hi>Antiquity</hi> of our School? that indeed is very
+<pb n="21" facs="tcp:31219:14"/>great; but in this we muſt give way to one or more.</p>
+            <p>Is it in the Illuſtrious <hi>Conduct</hi> under which it now at this time flouriſhes? Is it in the <hi>nu<g ref="char:EOLhyphen"/>merouſneſs</hi> of Scholars within doors? that was I well remember very great,
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Od. ξ.</note>
+               </q> and is ſo ſtill; but we won't outvie in that.</p>
+            <p>Is it in the Eminency of <hi>Profeſſors</hi> without? If we have many <hi>Chryſoſtoms</hi> and <hi>Papinians,</hi> and at the head of all our <hi>Galens</hi> and <hi>Paracelſi</hi> one <hi>Hippocrates,</hi>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Il. λ</note>
+               </q> who without Invidiouſneſs can deny the like to ſome other Schools?</p>
+            <p>But we can, and I hope ſhall, this Day out<g ref="char:EOLhyphen"/>vie all the reſt in <hi>Benefactions:</hi> We here pre<g ref="char:EOLhyphen"/>ſent are living Inſtances (God be praiſed) and I hope grateful Remembrancers of our Fore<g ref="char:EOLhyphen"/>fathers Benefaction; Let none of us be aſham'd of it: They whoſe Parents paid for them ne<g ref="char:EOLhyphen"/>ver ſo Liberally, and who receiv'd not after<g ref="char:EOLhyphen"/>wards the Benefactions of the <hi>College,</hi> have cauſe to bleſs God for the Foundation of a <hi>Free-School;</hi> All the Money in the World won't purchaſe any ſort of Education which has all the Advantages to be there met with; ſuch uſeful <hi>Acquaintance</hi> and <hi>Friendſhips;</hi> ſuch Noble <hi>Emulation;</hi> ſuch
+<pb n="22" facs="tcp:31219:15"/>Publick <hi>Encouragements;</hi> ſuch abſolute, and yet eaſy <hi>Subjections;</hi> ſuch proper, approv'd, and uninterrupted <hi>Diſcipline</hi> are there ſeen, as no Private Education, though never ſo expenſive and prudent can afford.</p>
+            <p>And now is there no Debt remaining upon us for all this? Though we were <hi>Free-Scholars,</hi> yet, as I take it, we are no <hi>Free-men</hi> till we have diſcharg'd ourſelves to the Publick for what we own the Publick. What uſe do we now make of our former Diſcipline? The <hi>Holy Spirit of Diſcipline</hi> the Wiſeman calls it,
+<note place="margin">Wiſd. 1, 5.</note> if we Sacrilegiouſly ſmother thoſe great Ta<g ref="char:EOLhyphen"/>lents we receiv'd at School as the Seeds of all our Intellectual Acquiſitions, and the Founda<g ref="char:EOLhyphen"/>tion upon which moſt of us build our outward Hopes.</p>
+            <p>What Bleſſing can we expect upon our En<g ref="char:EOLhyphen"/>deavours, unleſs God aſſiſts us? and how can we expect God's Aſſiſtance, unleſs we aſſiſt thoſe that ſtand in need of us?</p>
+            <p>The Sum of Diſcipline,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plato de Leg.</note> ſays <hi>Plato,</hi> is to teach Children the Love of that Vertue, which, being well underſtood, they are to make uſe of in Man<g ref="char:EOLhyphen"/>hood. <hi>Solomon</hi> with more Perſpicuity ſays, <hi>Train up a Child in the way he ſhou'd go,
+<note place="margin">Prov. 22.6.</note> and when he is Old he will not depart from it.</hi>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:31219:15"/>
+We who have had a Liberal Education, have this Day an Opportunity of ſhowing whether we imbib'd that Diſcipline; that Wiſdom which among many other noble Epithets, in the 7th Chapter of <hi>Wiſdom</hi> is ſaid to <hi>love the thing that is good, to be ready to do good, kind to man.</hi> Such a ſort of Wiſdom is a <hi>Treaſure unto men that never faileth,
+<note place="margin">Ver. 14.</note> which they that uſe become the Friends of God, being commended for the Gifts that come from Learning.</hi>
+            </p>
+            <p>They who have learn'd <hi>all</hi> the Liberal Sci<g ref="char:EOLhyphen"/>ences, will, I hope, ſhow the Quality of their Education in being Liberally-minded; and they who have learn'd the <hi>firſt</hi> of 'em only, have been taught their own Intereſt, taught ſure to read that of <hi>Solomon,
+<note place="margin">Pro. 11.24.</note> The Liberal ſoul ſhall be made fat; and he that watereth, ſhall be water'd alſo himſelf:</hi> but I muſt keep by my Text; <hi>Let no man ſeek his own.</hi> I wou'd have no ſelfiſh Con<g ref="char:EOLhyphen"/>ſideration at this time to work upon you: but conſider with yourſelves, that you have now an Opportunity of contributing to thoſe that are in Need, for ſuch a ſort of Education as you yourſelves were bleſſed with.</p>
+            <p>You that are Great Men in Learning, may contribute to make others as Great as your ſelves; ſuch as have a Genius and Capacity, which may otherwiſe perhaps lie in perpetual Obſcurity. And ye who have other Talents, and have met
+<pb n="24" facs="tcp:31219:16"/>with Avocations from Learning, may pay that Debt you owe your Country in the want of it, by being nobly Inſtrumental in the building up ſuch Scholars, as may be Living and Laſting Monuments of your Munificence; and may be able themſelves, ſome of 'em, to do that for the next Age, for which our Example will lay upon 'em the moſt powerful Obligation.</p>
+            <p>This minute is the time for you to reſolve with<g ref="char:EOLhyphen"/>in your ſelves what to do, and this Morning-Offering in your Pious Reſolutions; theſe firſt Fruits of your <hi>chearful</hi> Intentions wil conſecrate the Day, and all the next Year, I hope, to tem<g ref="char:EOLhyphen"/>perate <hi>Chearfulneſs.</hi> Above all things, this will ſhow whoſe Diſciples ye have been, and whoſe ye are: <hi>By this ſhall all men,</hi> ſaith our Bleſſed Saviour, <hi>know that ye are my Diſciples, if ye have love one to another.</hi> I'll conclude all therefore with thoſe Words of St. <hi>Paul,</hi> in the beginning of his 2d Chapter to the <hi>Philippians; If there be there<g ref="char:EOLhyphen"/>fore any Conſolation in Chriſt, if any comfort of Love, if any fellowſhip of the Spirit, if any bowels and mer<g ref="char:EOLhyphen"/>cies, be ye like-minded, having the ſame love. Look not every man on his own things, but every man alſo on the things of others. Let this mind be in you which was alſo in Chriſt Jeſus;</hi> To whom with the Fa<g ref="char:EOLhyphen"/>ther and the Holy Spirit, be all Honour, Praiſe, and Glory, for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>EINIS.</trailer>
+            <pb facs="tcp:31219:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
